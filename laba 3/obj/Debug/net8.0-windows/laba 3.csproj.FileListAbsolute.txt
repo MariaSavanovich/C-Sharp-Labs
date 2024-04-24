@@ -1,0 +1,16 @@
+F:\уник\c#\laba 3\laba 3\bin\Debug\net8.0-windows\laba 3.exe
+F:\уник\c#\laba 3\laba 3\bin\Debug\net8.0-windows\laba 3.deps.json
+F:\уник\c#\laba 3\laba 3\bin\Debug\net8.0-windows\laba 3.runtimeconfig.json
+F:\уник\c#\laba 3\laba 3\bin\Debug\net8.0-windows\laba 3.dll
+F:\уник\c#\laba 3\laba 3\bin\Debug\net8.0-windows\laba 3.pdb
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba_3.Form1.resources
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.csproj.GenerateResource.cache
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.AssemblyInfoInputs.cache
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.AssemblyInfo.cs
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.csproj.CoreCompileInputs.cache
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.dll
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\refint\laba 3.dll
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.pdb
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\laba 3.genruntimeconfig.cache
+F:\уник\c#\laba 3\laba 3\obj\Debug\net8.0-windows\ref\laba 3.dll
