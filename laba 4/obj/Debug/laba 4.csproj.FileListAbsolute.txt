@@ -1,0 +1,11 @@
+F:\уник\c#\laba 4\laba 4\bin\Debug\laba 4.exe.config
+F:\уник\c#\laba 4\laba 4\bin\Debug\laba 4.exe
+F:\уник\c#\laba 4\laba 4\bin\Debug\laba 4.pdb
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba 4.csproj.AssemblyReference.cache
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba_4.Form1.resources
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba_4.Properties.Resources.resources
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba 4.csproj.GenerateResource.cache
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba 4.csproj.CoreCompileInputs.cache
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba 4.exe
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba 4.pdb
+F:\уник\c#\laba 4\laba 4\obj\Debug\laba.Form1.resources
